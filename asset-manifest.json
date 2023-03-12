@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hellol-react/static/css/main.073c9b0a.css",
+    "main.js": "/hellol-react/static/js/main.fa87afa9.js",
+    "static/js/787.4e86bc36.chunk.js": "/hellol-react/static/js/787.4e86bc36.chunk.js",
+    "static/media/logo.svg": "/hellol-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hellol-react/index.html",
+    "main.073c9b0a.css.map": "/hellol-react/static/css/main.073c9b0a.css.map",
+    "main.fa87afa9.js.map": "/hellol-react/static/js/main.fa87afa9.js.map",
+    "787.4e86bc36.chunk.js.map": "/hellol-react/static/js/787.4e86bc36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fa87afa9.js"
+  ]
+}
