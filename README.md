@@ -1,3 +1,7 @@
+# click the link to view
+
+https://dileeka1998.github.io/hellol-react/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
